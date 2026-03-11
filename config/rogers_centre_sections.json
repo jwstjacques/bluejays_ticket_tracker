@@ -1,0 +1,207 @@
+{
+  "venue": "Rogers Centre",
+  "city": "Toronto, ON",
+  "team": "Toronto Blue Jays",
+  "lastUpdated": "2026-03-07",
+  "levels": [
+    {
+      "name": "Field Level",
+      "description": "Premium seating closest to the field, includes dugout and clubhouse seats",
+      "zones": [
+        {
+          "name": "Clubhouse / Dugout Seats",
+          "sections": ["1", "2", "3", "4", "5"],
+          "position": "Behind home plate",
+          "notes": "Most premium seats in the venue, directly behind home plate at field level"
+        },
+        {
+          "name": "Field Level Infield",
+          "sections": ["16", "17", "18", "19", "20", "21", "22", "23A", "23B", "24", "25", "26", "27", "28", "29", "30", "31", "32"],
+          "position": "Infield, extending along baselines",
+          "notes": "Sections 23A/23B are split sub-sections behind home plate"
+        }
+      ]
+    },
+    {
+      "name": "100 Level",
+      "description": "Lower bowl seating surrounding the field, from outfield to infield",
+      "zones": [
+        {
+          "name": "100 Level Outfield - Right Field",
+          "sections": ["101A", "101B", "102A", "102B", "103A", "103B"],
+          "position": "Right field outfield",
+          "notes": "A sections are closer to the field, B sections are further back. Typically among the cheapest lower-level tickets."
+        },
+        {
+          "name": "Bleachers / Right Field Corner",
+          "sections": ["104", "105", "106", "107"],
+          "position": "Right field corner, near visitor bullpen",
+          "notes": "Section 104 is bleacher/general admission seating. Section 105 is a single row directly above the visitor bullpen. Sections 106-107 are adjacent to the visitor bullpen area. Good spot for catching home runs."
+        },
+        {
+          "name": "100 Level Infield - First Base Side",
+          "sections": ["108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118"],
+          "position": "First base line into home plate area"
+        },
+        {
+          "name": "100 Level Infield - Behind Home Plate",
+          "sections": ["119", "120", "121", "122", "123", "124"],
+          "position": "Directly behind home plate"
+        },
+        {
+          "name": "100 Level Infield - Third Base Side",
+          "sections": ["125", "126", "127", "128", "129", "130", "131", "132", "133", "134", "135"],
+          "position": "Home plate area into third base line"
+        },
+        {
+          "name": "100 Level Left Field Corner",
+          "sections": ["136", "137", "138", "139", "140", "141"],
+          "position": "Left field corner",
+          "notes": "Sections 135-138 are good spots for catching home runs"
+        },
+        {
+          "name": "100 Level Outfield - Left Field",
+          "sections": ["142", "143", "144A", "144B", "145A", "145B", "146A", "146B", "147A", "147B", "148A", "148B"],
+          "position": "Left field outfield",
+          "notes": "A sections are closer to the field, B sections are further back. Typically among the cheapest lower-level tickets."
+        }
+      ]
+    },
+    {
+      "name": "200 Level",
+      "description": "Mezzanine level with elevated views. Most sections have fewer than 15 rows with entrance at the top. Covered seating generally begins around Row 8.",
+      "zones": [
+        {
+          "name": "200 Level Outfield - Right Field",
+          "sections": ["204", "205", "206", "207"],
+          "position": "Right field outfield"
+        },
+        {
+          "name": "WestJet Flight Deck",
+          "sections": ["WestJet Flight Deck"],
+          "position": "Center field",
+          "notes": "Standing-room social area in center field between sections 207 and 210. No numbered sections 208/209 exist in this gap."
+        },
+        {
+          "name": "200 Level Corner - Right Field",
+          "sections": ["210", "211"],
+          "position": "Right field corner, transitioning to infield"
+        },
+        {
+          "name": "200 Level Infield - First Base Side",
+          "sections": ["212", "213", "214", "215", "216", "217", "218", "219", "220"],
+          "position": "First base line",
+          "notes": "Sections 218-219 are corner sections"
+        },
+        {
+          "name": "200 Level Infield - Behind Home Plate (Premium)",
+          "sections": ["221A", "221B", "222A", "222B", "223A", "223B", "224A", "224B", "225A", "225B", "226A", "226B", "227A", "227B"],
+          "position": "Behind home plate",
+          "notes": "Premium club sections including Rogers Banner Club and KPMG Blueprint Club. A/B sub-sections with A rows closer to the field."
+        },
+        {
+          "name": "200 Level Infield - Third Base Side",
+          "sections": ["228", "229", "230", "231", "232", "233", "234", "235", "236"],
+          "position": "Third base line",
+          "notes": "Sections 229-230 are corner sections. Sections 232-236 down the line offer good value with comparable sightlines to premium infield."
+        },
+        {
+          "name": "200 Level Corner - Left Field",
+          "sections": ["237", "238", "239", "240", "241"],
+          "position": "Left field corner, transitioning to outfield"
+        },
+        {
+          "name": "200 Level Outfield - Left Field",
+          "sections": ["242", "243", "244"],
+          "position": "Left field outfield"
+        }
+      ]
+    },
+    {
+      "name": "500 Level",
+      "description": "Upper deck seating. Most sections have 21-24 rows starting at Row 1. Budget-friendly options with full-field views.",
+      "zones": [
+        {
+          "name": "500 Level Outfield - Right Field",
+          "sections": ["504", "505", "506", "507"],
+          "position": "Right field outfield",
+          "notes": "Adjacent to Corona Rooftop Patio. Sections may have limited availability due to renovations."
+        },
+        {
+          "name": "500 Level End - Right Field",
+          "sections": ["508", "509", "510", "511", "512", "513", "514"],
+          "position": "Right field",
+          "notes": "Sections 508-511 are closest to the Corona Rooftop Patio"
+        },
+        {
+          "name": "500 Level Corner - First Base Side",
+          "sections": ["515", "516", "517", "518", "519"],
+          "position": "First base corner",
+          "notes": "Closer to the field than behind home plate. With roof open, first base side is susceptible to sun."
+        },
+        {
+          "name": "500 Level Infield - Behind Home Plate",
+          "sections": ["520", "521", "522", "523", "524", "525", "526", "527"],
+          "position": "Behind home plate",
+          "notes": "Sections 522-526 have excellent center field scoreboard views. Best value on the 500 level."
+        },
+        {
+          "name": "500 Level Corner - Third Base Side",
+          "sections": ["528", "529", "530", "531", "532", "533"],
+          "position": "Third base corner",
+          "notes": "With roof open, third base side is covered/shaded"
+        },
+        {
+          "name": "500 Level End - Left Field",
+          "sections": ["534", "535", "536", "537", "538", "539", "540"],
+          "position": "Left field",
+          "notes": "Sections 537-540 are closest to TD Park Social"
+        },
+        {
+          "name": "500 Level Outfield - Left Field",
+          "sections": ["541", "542", "543", "544"],
+          "position": "Left field outfield",
+          "notes": "Furthest outfield sections. Sections may have limited availability due to renovations."
+        }
+      ]
+    }
+  ],
+  "socialAreas": [
+    {
+      "name": "WestJet Flight Deck",
+      "level": "200 Level",
+      "position": "Center field",
+      "description": "Standing-room social area with views toward home plate"
+    },
+    {
+      "name": "Corona Rooftop Patio",
+      "level": "500 Level",
+      "position": "Right field",
+      "description": "Rooftop patio with upscale bar and food options, near sections 508-511"
+    },
+    {
+      "name": "TD Park Social",
+      "level": "500 Level",
+      "position": "Left field",
+      "description": "Neighborhood park-inspired area with games and outdoor social seating, near sections 537-540"
+    },
+    {
+      "name": "Sportsnet Grill",
+      "level": "200 Level",
+      "position": "Infield",
+      "description": "Dining venue with game views and specialty menu items"
+    },
+    {
+      "name": "The Catch Bar",
+      "level": "Outfield District",
+      "position": "Outfield",
+      "description": "Bar in the Outfield District"
+    },
+    {
+      "name": "Schneider's Porch",
+      "level": "Outfield District",
+      "position": "Outfield",
+      "description": "Social area in the Outfield District"
+    }
+  ]
+}

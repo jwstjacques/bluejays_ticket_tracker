@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "tickets": {
+    "2026-04-07": {
+      "sets": [
+        {
+          "section": "231",
+          "row": "6",
+          "seats": "6-7",
+          "quantity": 2,
+          "costPerTicket": 84.35,
+          "totalCost": 168.70,
+          "status": "KEEP",
+          "notes": ""
+        }
+      ]
+    },
+    "2026-06-12": {
+      "sets": [
+        {
+          "section": "231",
+          "row": "6",
+          "seats": "6-7",
+          "quantity": 2,
+          "costPerTicket": 84.35,
+          "totalCost": 168.70,
+          "status": "SELL",
+          "platform": "seatgeek",
+          "marketPrice": 120.00,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

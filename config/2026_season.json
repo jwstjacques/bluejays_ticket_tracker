@@ -1,0 +1,2023 @@
+{
+  "season": 2026,
+  "team": "Toronto Blue Jays",
+  "venue": "Rogers Centre",
+  "totalGames": 81,
+  "games": [
+    {
+      "date": "2026-03-27",
+      "dayOfWeek": "Fri",
+      "opponent": "Oakland Athletics",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Opening Night - AL Champions Pennant + Magnet Schedule (presented by TD)",
+        "type": "Giveaway (all fans)",
+        "details": "Pennant on entrance / Magnet schedule on exit"
+      },
+      "seatgeek": {
+        "eventId": "17695946",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/3-27-2026-toronto-canada-rogers-centre/mlb/17695946"
+      },
+      "stubHub": {
+        "eventId": "159262423",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-3-27-2026/event/159262423/"
+      },
+      "vividSeats": {
+        "eventId": "5867617",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-3-26-2026--sports-mlb-baseball/production/5867617"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FDC2F9BB7",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-athletics-opening-toronto-ontario-03-27-2026/event/1000638FDC2F9BB7"
+      }
+    },
+    {
+      "date": "2026-03-28",
+      "dayOfWeek": "Sat",
+      "opponent": "Oakland Athletics",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "AL Champions White Panel Hat Giveaway* (presented by TD)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans upon entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695948",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/3-28-2026-toronto-canada-rogers-centre/mlb/17695948"
+      },
+      "stubHub": {
+        "eventId": "159262424",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-3-28-2026/event/159262424/"
+      },
+      "vividSeats": {
+        "eventId": "5966459",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-3-28-2026--sports-mlb-baseball/production/5966459"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FDE8A9DA0",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-athleticsal-champions-toronto-ontario-03-28-2026/event/1000638FDE8A9DA0"
+      }
+    },
+    {
+      "date": "2026-03-29",
+      "dayOfWeek": "Sun",
+      "opponent": "Oakland Athletics",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695951",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/3-29-2026-toronto-canada-rogers-centre/mlb/17695951"
+      },
+      "stubHub": {
+        "eventId": "159262425",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-3-29-2026/event/159262425/"
+      },
+      "vividSeats": {
+        "eventId": "5966470",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-3-29-2026--sports-mlb-baseball/production/5966470"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FE0B99F4C",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-athletics-jr-toronto-ontario-03-29-2026/event/1000638FE0B99F4C"
+      }
+    },
+    {
+      "date": "2026-03-30",
+      "dayOfWeek": "Mon",
+      "opponent": "Colorado Rockies",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "AL Champions Crewneck Giveaway* (presented by Enercare)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695952",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/3-30-2026-toronto-canada-rogers-centre/mlb/17695952"
+      },
+      "stubHub": {
+        "eventId": "159262426",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-3-30-2026/event/159262426/"
+      },
+      "vividSeats": {
+        "eventId": "5966507",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-3-30-2026--sports-mlb-baseball/production/5966507"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FE03A9EB5",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-colorado-rockies-toronto-ontario-03-30-2026/event/1000638FE03A9EB5"
+      }
+    },
+    {
+      "date": "2026-03-31",
+      "dayOfWeek": "Tue",
+      "opponent": "Colorado Rockies",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695955",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/3-31-2026-toronto-canada-rogers-centre/mlb/17695955"
+      },
+      "stubHub": {
+        "eventId": "159262427",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-3-31-2026/event/159262427/"
+      },
+      "vividSeats": {
+        "eventId": "5966516",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-3-31-2026--sports-mlb-baseball/production/5966516"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FE1389FCE",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rockies-loonie-toronto-ontario-03-31-2026/event/1000638FE1389FCE"
+      }
+    },
+    {
+      "date": "2026-04-01",
+      "dayOfWeek": "Wed",
+      "opponent": "Colorado Rockies",
+      "startTime": "13:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695956",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-1-2026-toronto-canada-rogers-centre/mlb/17695956"
+      },
+      "stubHub": {
+        "eventId": "159262428",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-1-2026/event/159262428/"
+      },
+      "vividSeats": {
+        "eventId": "5966525",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-1-2026--sports-mlb-baseball/production/5966525"
+      },
+      "ticketmaster": {
+        "eventId": "1000639183083838",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-colorado-rockies-toronto-ontario-04-01-2026/event/1000639183083838"
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "dayOfWeek": "Mon",
+      "opponent": "Los Angeles Dodgers",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695959",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-6-2026-toronto-canada-rogers-centre/mlb/17695959"
+      },
+      "stubHub": {
+        "eventId": "159262429",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-6-2026/event/159262429/"
+      },
+      "vividSeats": {
+        "eventId": "5966652",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-6-2026--sports-mlb-baseball/production/5966652"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FDCFA9C5A",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-los-angeles-toronto-ontario-04-06-2026/event/1000638FDCFA9C5A"
+      }
+    },
+    {
+      "date": "2026-04-07",
+      "dayOfWeek": "Tue",
+      "opponent": "Los Angeles Dodgers",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Loonie Dogs Night & Commemorative Ticket Giveaway* (50th Season)",
+        "type": "Giveaway (first 15k)",
+        "details": "$0.77 Hot Dog Night - Anniversary of first game at Exhibition Stadium 1977"
+      },
+      "seatgeek": {
+        "eventId": "17695960",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-7-2026-toronto-canada-rogers-centre/mlb/17695960"
+      },
+      "stubHub": {
+        "eventId": "159262430",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-7-2026/event/159262430/"
+      },
+      "vividSeats": {
+        "eventId": "5966660",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-7-2026--sports-mlb-baseball/production/5966660"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185F93CAB",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-dodgers-loonie-toronto-ontario-04-07-2026/event/1000639185F93CAB"
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "dayOfWeek": "Wed",
+      "opponent": "Los Angeles Dodgers",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695961",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-8-2026-toronto-canada-rogers-centre/mlb/17695961"
+      },
+      "stubHub": {
+        "eventId": "159262431",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-8-2026/event/159262431/"
+      },
+      "vividSeats": {
+        "eventId": "5966672",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-8-2026--sports-mlb-baseball/production/5966672"
+      },
+      "ticketmaster": {
+        "eventId": "1000639189744328",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-dodgers-work-toronto-ontario-04-08-2026/event/1000639189744328"
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "dayOfWeek": "Fri",
+      "opponent": "Minnesota Twins",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Jumpin' George Springer Bobblehead Giveaway*",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695966",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-10-2026-toronto-canada-rogers-centre/mlb/17695966"
+      },
+      "stubHub": {
+        "eventId": "159262432",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-10-2026/event/159262432/"
+      },
+      "vividSeats": {
+        "eventId": "5966688",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-10-2026--sports-mlb-baseball/production/5966688"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186423D6D",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-twins-jumpin-toronto-ontario-04-10-2026/event/1000639186423D6D"
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "dayOfWeek": "Sat",
+      "opponent": "Minnesota Twins",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Addison Barger Couch T-Shirt Giveaway*",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695965",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-11-2026-toronto-canada-rogers-centre/mlb/17695965"
+      },
+      "stubHub": {
+        "eventId": "159262433",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-11-2026/event/159262433/"
+      },
+      "vividSeats": {
+        "eventId": "5966697",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-11-2026--sports-mlb-baseball/production/5966697"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FDD7F9CBB",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-twins-addison-toronto-ontario-04-11-2026/event/1000638FDD7F9CBB"
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "dayOfWeek": "Sun",
+      "opponent": "Minnesota Twins",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695967",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-12-2026-toronto-canada-rogers-centre/mlb/17695967"
+      },
+      "stubHub": {
+        "eventId": "159262434",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-12-2026/event/159262434/"
+      },
+      "vividSeats": {
+        "eventId": "5966705",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-12-2026--sports-mlb-baseball/production/5966705"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186453D71",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-twins-jr-toronto-ontario-04-12-2026/event/1000639186453D71"
+      }
+    },
+    {
+      "date": "2026-04-24",
+      "dayOfWeek": "Fri",
+      "opponent": "Cleveland Guardians",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Y2K Weekend & Retro Hoodie Giveaway* (50th Season)",
+        "type": "Giveaway (first 15k)",
+        "details": "Step back into the early 2000s - First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695971",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-24-2026-toronto-canada-rogers-centre/mlb/17695971"
+      },
+      "stubHub": {
+        "eventId": "159262435",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-24-2026/event/159262435/"
+      },
+      "vividSeats": {
+        "eventId": "5966717",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-24-2026--sports-mlb-baseball/production/5966717"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186473D76",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-guardians-y2k-toronto-ontario-04-24-2026/event/1000639186473D76"
+      }
+    },
+    {
+      "date": "2026-04-25",
+      "dayOfWeek": "Sat",
+      "opponent": "Cleveland Guardians",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "SpongeBob SquarePants Specialty Ticket",
+        "type": "Specialty Ticket",
+        "details": "Includes ticket + Blue Jays SpongeBob Jersey (select sizes)"
+      },
+      "seatgeek": {
+        "eventId": "17695972",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-25-2026-toronto-canada-rogers-centre/mlb/17695972"
+      },
+      "stubHub": {
+        "eventId": "159262436",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-25-2026/event/159262436/"
+      },
+      "vividSeats": {
+        "eventId": "5966724",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-25-2026--sports-mlb-baseball/production/5966724"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185D23C48",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-cleveland-guardians-toronto-ontario-04-25-2026/event/1000639185D23C48"
+      }
+    },
+    {
+      "date": "2026-04-26",
+      "dayOfWeek": "Sun",
+      "opponent": "Cleveland Guardians",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695975",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-26-2026-toronto-canada-rogers-centre/mlb/17695975"
+      },
+      "stubHub": {
+        "eventId": "159262437",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-26-2026/event/159262437/"
+      },
+      "vividSeats": {
+        "eventId": "5966743",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-26-2026--sports-mlb-baseball/production/5966743"
+      },
+      "ticketmaster": {
+        "eventId": "10006391864A3D8B",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-guardians-jr-toronto-ontario-04-26-2026/event/10006391864A3D8B"
+      }
+    },
+    {
+      "date": "2026-04-27",
+      "dayOfWeek": "Mon",
+      "opponent": "Boston Red Sox",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Ernie Clement Replica Hockey Jersey Giveaway* (presented by Explore New Brunswick)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695977",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-27-2026-toronto-canada-rogers-centre/mlb/17695977"
+      },
+      "stubHub": {
+        "eventId": "159262438",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-27-2026/event/159262438/"
+      },
+      "vividSeats": {
+        "eventId": "5966759",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-27-2026--sports-mlb-baseball/production/5966759"
+      },
+      "ticketmaster": {
+        "eventId": "10006391864C3DAF",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-red-sox-toronto-ontario-04-27-2026/event/10006391864C3DAF"
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "dayOfWeek": "Tue",
+      "opponent": "Boston Red Sox",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695978",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-28-2026-toronto-canada-rogers-centre/mlb/17695978"
+      },
+      "stubHub": {
+        "eventId": "159262439",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-28-2026/event/159262439/"
+      },
+      "vividSeats": {
+        "eventId": "5966764",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-28-2026--sports-mlb-baseball/production/5966764"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186503DB7",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-red-sox-toronto-ontario-04-28-2026/event/1000639186503DB7"
+      }
+    },
+    {
+      "date": "2026-04-29",
+      "dayOfWeek": "Wed",
+      "opponent": "Boston Red Sox",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695981",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/4-29-2026-toronto-canada-rogers-centre/mlb/17695981"
+      },
+      "stubHub": {
+        "eventId": "159262440",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-4-29-2026/event/159262440/"
+      },
+      "vividSeats": {
+        "eventId": "5966772",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-4-29-2026--sports-mlb-baseball/production/5966772"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186303D2C",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-red-sox-toronto-ontario-04-29-2026/event/1000639186303D2C"
+      }
+    },
+    {
+      "date": "2026-05-08",
+      "dayOfWeek": "Fri",
+      "opponent": "Los Angeles Angels",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Trey Yesavage Angry Bird Replica Jersey Giveaway* (50th Season)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695982",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-8-2026-toronto-canada-rogers-centre/mlb/17695982"
+      },
+      "stubHub": {
+        "eventId": "159262441",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-8-2026/event/159262441/"
+      },
+      "vividSeats": {
+        "eventId": "5966783",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-8-2026--sports-mlb-baseball/production/5966783"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185D43C50",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-angels-trey-toronto-ontario-05-08-2026/event/1000639185D43C50"
+      }
+    },
+    {
+      "date": "2026-05-09",
+      "dayOfWeek": "Sat",
+      "opponent": "Los Angeles Angels",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Blue Jays Barbie Game Day & Reversible Bucket Hat Giveaway*",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "Barbie activities + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695983",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-9-2026-toronto-canada-rogers-centre/mlb/17695983"
+      },
+      "stubHub": {
+        "eventId": "159262442",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-9-2026/event/159262442/"
+      },
+      "vividSeats": {
+        "eventId": "5966789",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-9-2026--sports-mlb-baseball/production/5966789"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185FC3CB0",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-angels-barbie-toronto-ontario-05-09-2026/event/1000639185FC3CB0"
+      }
+    },
+    {
+      "date": "2026-05-10",
+      "dayOfWeek": "Sun",
+      "opponent": "Los Angeles Angels",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695987",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-10-2026-toronto-canada-rogers-centre/mlb/17695987"
+      },
+      "stubHub": {
+        "eventId": "159262443",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-10-2026/event/159262443/"
+      },
+      "vividSeats": {
+        "eventId": "5966793",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-10-2026--sports-mlb-baseball/production/5966793"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185D73C54",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-angels-jr-toronto-ontario-05-10-2026/event/1000639185D73C54"
+      }
+    },
+    {
+      "date": "2026-05-11",
+      "dayOfWeek": "Mon",
+      "opponent": "Tampa Bay Rays",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Legendary Home Runs T-Shirt Giveaway* (50th Season - presented by RYOBI)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695988",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-11-2026-toronto-canada-rogers-centre/mlb/17695988"
+      },
+      "stubHub": {
+        "eventId": "159262444",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-11-2026/event/159262444/"
+      },
+      "vividSeats": {
+        "eventId": "5966819",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-11-2026--sports-mlb-baseball/production/5966819"
+      },
+      "ticketmaster": {
+        "eventId": "1000638FE1BAA02F",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rays-legendary-toronto-ontario-05-11-2026/event/1000638FE1BAA02F"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "dayOfWeek": "Tue",
+      "opponent": "Tampa Bay Rays",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695990",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-12-2026-toronto-canada-rogers-centre/mlb/17695990"
+      },
+      "stubHub": {
+        "eventId": "159262445",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-12-2026/event/159262445/"
+      },
+      "vividSeats": {
+        "eventId": "5966824",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-12-2026--sports-mlb-baseball/production/5966824"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186323D2F",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rays-loonie-toronto-ontario-05-12-2026/event/1000639186323D2F"
+      }
+    },
+    {
+      "date": "2026-05-13",
+      "dayOfWeek": "Wed",
+      "opponent": "Tampa Bay Rays",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Naruto Specialty Ticket",
+        "type": "Specialty Ticket",
+        "details": "Includes ticket + Blue Jays Naruto Jersey (select sizes)"
+      },
+      "seatgeek": {
+        "eventId": "17695993",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-13-2026-toronto-canada-rogers-centre/mlb/17695993"
+      },
+      "stubHub": {
+        "eventId": "159262446",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-13-2026/event/159262446/"
+      },
+      "vividSeats": {
+        "eventId": "5966832",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-13-2026--sports-mlb-baseball/production/5966832"
+      },
+      "ticketmaster": {
+        "eventId": "1000639182E03810",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-tampa-bay-toronto-ontario-05-13-2026/event/1000639182E03810"
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "dayOfWeek": "Fri",
+      "opponent": "Pittsburgh Pirates",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "City Connect Fridays & Bautista/Encarnacion HR Flex Bobblehead Giveaway* (50th Season)",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "City Connect activities + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695995",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-22-2026-toronto-canada-rogers-centre/mlb/17695995"
+      },
+      "stubHub": {
+        "eventId": "159262447",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-22-2026/event/159262447/"
+      },
+      "vividSeats": {
+        "eventId": "5966836",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-22-2026--sports-mlb-baseball/production/5966836"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185FF3CB3",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-pirates-bautista-toronto-ontario-05-22-2026/event/1000639185FF3CB3"
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "dayOfWeek": "Sat",
+      "opponent": "Pittsburgh Pirates",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Cricket Day at the Park & Cricket Sweater Vest Giveaway* (presented by TD)",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "Cricket activities + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17695997",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-23-2026-toronto-canada-rogers-centre/mlb/17695997"
+      },
+      "stubHub": {
+        "eventId": "159262448",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-23-2026/event/159262448/"
+      },
+      "vividSeats": {
+        "eventId": "5966841",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-23-2026--sports-mlb-baseball/production/5966841"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186023CBB",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-pirates-cricket-toronto-ontario-05-23-2026/event/1000639186023CBB"
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "dayOfWeek": "Sun",
+      "opponent": "Pittsburgh Pirates",
+      "startTime": "12:10",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17695998",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-24-2026-toronto-canada-rogers-centre/mlb/17695998"
+      },
+      "stubHub": {
+        "eventId": "159262449",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-24-2026/event/159262449/"
+      },
+      "vividSeats": {
+        "eventId": "5966846",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-24-2026--sports-mlb-baseball/production/5966846"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185D93C59",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-pirates-jr-toronto-ontario-05-24-2026/event/1000639185D93C59"
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "dayOfWeek": "Mon",
+      "opponent": "Miami Marlins",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "'Born Ready' Vladdy Bobblehead Giveaway*",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696001",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-25-2026-toronto-canada-rogers-centre/mlb/17696001"
+      },
+      "stubHub": {
+        "eventId": "159262450",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-25-2026/event/159262450/"
+      },
+      "vividSeats": {
+        "eventId": "5966854",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-25-2026--sports-mlb-baseball/production/5966854"
+      },
+      "ticketmaster": {
+        "eventId": "100063918310383E",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-miami-born-toronto-ontario-05-25-2026/event/100063918310383E"
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "dayOfWeek": "Tue",
+      "opponent": "Miami Marlins",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696003",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-26-2026-toronto-canada-rogers-centre/mlb/17696003"
+      },
+      "stubHub": {
+        "eventId": "159262451",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-26-2026/event/159262451/"
+      },
+      "vividSeats": {
+        "eventId": "5966859",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-26-2026--sports-mlb-baseball/production/5966859"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186353D3C",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-miami-loonie-toronto-ontario-05-26-2026/event/1000639186353D3C"
+      }
+    },
+    {
+      "date": "2026-05-27",
+      "dayOfWeek": "Wed",
+      "opponent": "Miami Marlins",
+      "startTime": "13:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696005",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/5-27-2026-toronto-canada-rogers-centre/mlb/17696005"
+      },
+      "stubHub": {
+        "eventId": "159262452",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-5-27-2026/event/159262452/"
+      },
+      "vividSeats": {
+        "eventId": "5966864",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-5-27-2026--sports-mlb-baseball/production/5966864"
+      },
+      "ticketmaster": {
+        "eventId": "1000639182E83817",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-miami-marlins-toronto-ontario-05-27-2026/event/1000639182E83817"
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "dayOfWeek": "Fri",
+      "opponent": "Baltimore Orioles",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Pride Night & City Connect Pride Hat Giveaway* (presented by TD)",
+        "type": "Theme Night + Giveaway (first 15k)",
+        "details": "Pride Night activities + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696007",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-5-2026-toronto-canada-rogers-centre/mlb/17696007"
+      },
+      "stubHub": {
+        "eventId": "159262453",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-5-2026/event/159262453/"
+      },
+      "vividSeats": {
+        "eventId": "5966893",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-5-2026--sports-mlb-baseball/production/5966893"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186523DC2",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-orioles-pride-toronto-ontario-06-05-2026/event/1000639186523DC2"
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "dayOfWeek": "Sat",
+      "opponent": "Baltimore Orioles",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696008",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-6-2026-toronto-canada-rogers-centre/mlb/17696008"
+      },
+      "stubHub": {
+        "eventId": "159262454",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-6-2026/event/159262454/"
+      },
+      "vividSeats": {
+        "eventId": "5966897",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-6-2026--sports-mlb-baseball/production/5966897"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186043CBF",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-baltimore-orioles-toronto-ontario-06-06-2026/event/1000639186043CBF"
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "dayOfWeek": "Sun",
+      "opponent": "Baltimore Orioles",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696011",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-7-2026-toronto-canada-rogers-centre/mlb/17696011"
+      },
+      "stubHub": {
+        "eventId": "159262455",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-7-2026/event/159262455/"
+      },
+      "vividSeats": {
+        "eventId": "5966904",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-7-2026--sports-mlb-baseball/production/5966904"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185DC3C6E",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-orioles-jr-toronto-ontario-06-07-2026/event/1000639185DC3C6E"
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "dayOfWeek": "Mon",
+      "opponent": "Philadelphia Phillies",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Roy Halladay Retro Replica Jersey Giveaway* (50th Season)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696013",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-8-2026-toronto-canada-rogers-centre/mlb/17696013"
+      },
+      "stubHub": {
+        "eventId": "159262456",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-8-2026/event/159262456/"
+      },
+      "vividSeats": {
+        "eventId": "5966911",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-8-2026--sports-mlb-baseball/production/5966911"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185DF3C79",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-phillies-roy-toronto-ontario-06-08-2026/event/1000639185DF3C79"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "dayOfWeek": "Tue",
+      "opponent": "Philadelphia Phillies",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696015",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-9-2026-toronto-canada-rogers-centre/mlb/17696015"
+      },
+      "stubHub": {
+        "eventId": "159262457",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-9-2026/event/159262457/"
+      },
+      "vividSeats": {
+        "eventId": "5966916",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-9-2026--sports-mlb-baseball/production/5966916"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186073CC2",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-phillies-loonie-toronto-ontario-06-09-2026/event/1000639186073CC2"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "dayOfWeek": "Wed",
+      "opponent": "Philadelphia Phillies",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Dylan Cease Bobblehead Giveaway*",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696017",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-10-2026-toronto-canada-rogers-centre/mlb/17696017"
+      },
+      "stubHub": {
+        "eventId": "159262458",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-10-2026/event/159262458/"
+      },
+      "vividSeats": {
+        "eventId": "5966920",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-10-2026--sports-mlb-baseball/production/5966920"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186093CC7",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-phillies-dylan-toronto-ontario-06-10-2026/event/1000639186093CC7"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "dayOfWeek": "Fri",
+      "opponent": "New York Yankees",
+      "startTime": "19:37",
+      "promotion": {
+        "name": "Andr\u00e9s Gim\u00e9nez Replica Soccer Jersey Giveaway*",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696018",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-12-2026-toronto-canada-rogers-centre/mlb/17696018"
+      },
+      "stubHub": {
+        "eventId": "159262459",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-12-2026/event/159262459/"
+      },
+      "vividSeats": {
+        "eventId": "5966928",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-12-2026--sports-mlb-baseball/production/5966928"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185BE3C28",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-yankees-andres-toronto-ontario-06-12-2026/event/1000639185BE3C28"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "dayOfWeek": "Sat",
+      "opponent": "New York Yankees",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696019",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-13-2026-toronto-canada-rogers-centre/mlb/17696019"
+      },
+      "stubHub": {
+        "eventId": "159262460",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-13-2026/event/159262460/"
+      },
+      "vividSeats": {
+        "eventId": "5966933",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-13-2026--sports-mlb-baseball/production/5966933"
+      },
+      "ticketmaster": {
+        "eventId": "10006390CDCB9178",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-new-york-toronto-ontario-06-13-2026/event/10006390CDCB9178"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "dayOfWeek": "Sun",
+      "opponent": "New York Yankees",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696023",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-14-2026-toronto-canada-rogers-centre/mlb/17696023"
+      },
+      "stubHub": {
+        "eventId": "159262461",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-14-2026/event/159262461/"
+      },
+      "vividSeats": {
+        "eventId": "5966936",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-14-2026--sports-mlb-baseball/production/5966936"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185BE3C2C",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-yankees-jr-toronto-ontario-06-14-2026/event/1000639185BE3C2C"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "dayOfWeek": "Mon",
+      "opponent": "Houston Astros",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Gate 14 Specialty Ticket",
+        "type": "Specialty Ticket",
+        "details": "Includes ticket + Blue Jays x Gate 14 Co-Branded T-Shirt"
+      },
+      "seatgeek": {
+        "eventId": "17696024",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-22-2026-toronto-canada-rogers-centre/mlb/17696024"
+      },
+      "stubHub": {
+        "eventId": "159262462",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-22-2026/event/159262462/"
+      },
+      "vividSeats": {
+        "eventId": "5966952",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-22-2026--sports-mlb-baseball/production/5966952"
+      },
+      "ticketmaster": {
+        "eventId": "1000639182F73824",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-houston-astros-toronto-ontario-06-22-2026/event/1000639182F73824"
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "dayOfWeek": "Tue",
+      "opponent": "Houston Astros",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696026",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-23-2026-toronto-canada-rogers-centre/mlb/17696026"
+      },
+      "stubHub": {
+        "eventId": "159262463",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-23-2026/event/159262463/"
+      },
+      "vividSeats": {
+        "eventId": "5966960",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-23-2026--sports-mlb-baseball/production/5966960"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186553DC4",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-astros-loonie-toronto-ontario-06-23-2026/event/1000639186553DC4"
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "dayOfWeek": "Wed",
+      "opponent": "Houston Astros",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Retro Domer Hat Giveaway* (50th Season)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696029",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-24-2026-toronto-canada-rogers-centre/mlb/17696029"
+      },
+      "stubHub": {
+        "eventId": "159262464",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-24-2026/event/159262464/"
+      },
+      "vividSeats": {
+        "eventId": "5966968",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-24-2026--sports-mlb-baseball/production/5966968"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186573DC6",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-astros-retro-toronto-ontario-06-24-2026/event/1000639186573DC6"
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "dayOfWeek": "Thu",
+      "opponent": "Texas Rangers",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Potato Head Specialty Ticket",
+        "type": "Specialty Ticket",
+        "details": "Includes ticket + Blue Jays Potato Head"
+      },
+      "seatgeek": {
+        "eventId": "17696031",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-25-2026-toronto-canada-rogers-centre/mlb/17696031"
+      },
+      "stubHub": {
+        "eventId": "159262465",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-25-2026/event/159262465/"
+      },
+      "vividSeats": {
+        "eventId": "5966977",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-25-2026--sports-mlb-baseball/production/5966977"
+      },
+      "ticketmaster": {
+        "eventId": "10006391865A3DC8",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-texas-rangers-toronto-ontario-06-25-2026/event/10006391865A3DC8"
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "dayOfWeek": "Fri",
+      "opponent": "Texas Rangers",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "City Connect Fridays & Alejandro Kirk City Connect Replica Jersey Giveaway*",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "City Connect activities + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696032",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-26-2026-toronto-canada-rogers-centre/mlb/17696032"
+      },
+      "stubHub": {
+        "eventId": "159262466",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-26-2026/event/159262466/"
+      },
+      "vividSeats": {
+        "eventId": "5966981",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-26-2026--sports-mlb-baseball/production/5966981"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185E23C7B",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rangers-kirk-toronto-ontario-06-26-2026/event/1000639185E23C7B"
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "dayOfWeek": "Sat",
+      "opponent": "Texas Rangers",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696033",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-27-2026-toronto-canada-rogers-centre/mlb/17696033"
+      },
+      "stubHub": {
+        "eventId": "159262467",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-27-2026/event/159262467/"
+      },
+      "vividSeats": {
+        "eventId": "5966985",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-27-2026--sports-mlb-baseball/production/5966985"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185BF3C2E",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-texas-rangers-toronto-ontario-06-27-2026/event/1000639185BF3C2E"
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "dayOfWeek": "Sun",
+      "opponent": "Texas Rangers",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696037",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-28-2026-toronto-canada-rogers-centre/mlb/17696037"
+      },
+      "stubHub": {
+        "eventId": "159262468",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-28-2026/event/159262468/"
+      },
+      "vividSeats": {
+        "eventId": "5966989",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-28-2026--sports-mlb-baseball/production/5966989"
+      },
+      "ticketmaster": {
+        "eventId": "10006391860C3CCF",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rangers-jr-toronto-ontario-06-28-2026/event/10006391860C3CCF"
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "dayOfWeek": "Mon",
+      "opponent": "New York Mets",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696038",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-29-2026-toronto-canada-rogers-centre/mlb/17696038"
+      },
+      "stubHub": {
+        "eventId": "159262469",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-29-2026/event/159262469/"
+      },
+      "vividSeats": {
+        "eventId": "5966992",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-29-2026--sports-mlb-baseball/production/5966992"
+      },
+      "ticketmaster": {
+        "eventId": "10006391865D3DCF",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-new-york-toronto-ontario-06-29-2026/event/10006391865D3DCF"
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "dayOfWeek": "Tue",
+      "opponent": "New York Mets",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696041",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/6-30-2026-toronto-canada-rogers-centre/mlb/17696041"
+      },
+      "stubHub": {
+        "eventId": "159262470",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-6-30-2026/event/159262470/"
+      },
+      "vividSeats": {
+        "eventId": "5966998",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-6-30-2026--sports-mlb-baseball/production/5966998"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185E43C7D",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-mets-loonie-toronto-ontario-06-30-2026/event/1000639185E43C7D"
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "dayOfWeek": "Wed",
+      "opponent": "New York Mets",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Canada Day & Shane Bieber Red Cut-Off Replica Jersey Giveaway* (50th Season)",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "Canada Day activities + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696042",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-1-2026-toronto-canada-rogers-centre/mlb/17696042"
+      },
+      "stubHub": {
+        "eventId": "159262471",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-1-2026/event/159262471/"
+      },
+      "vividSeats": {
+        "eventId": "5967004",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-1-2026--sports-mlb-baseball/production/5967004"
+      },
+      "ticketmaster": {
+        "eventId": "10006391832C385A",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-mets-canada-toronto-ontario-07-01-2026/event/10006391832C385A"
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "dayOfWeek": "Fri",
+      "opponent": "Chicago White Sox",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696045",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-17-2026-toronto-canada-rogers-centre/mlb/17696045"
+      },
+      "stubHub": {
+        "eventId": "159262472",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-17-2026/event/159262472/"
+      },
+      "vividSeats": {
+        "eventId": "5967023",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-17-2026--sports-mlb-baseball/production/5967023"
+      },
+      "ticketmaster": {
+        "eventId": "10006391860F3CD1",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-chicago-white-toronto-ontario-07-17-2026/event/10006391860F3CD1"
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "dayOfWeek": "Sat",
+      "opponent": "Chicago White Sox",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Back-to-Back Statue Unveil & '92/'93 World Series Replica Rings Giveaway* (50th Season)",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "Pregame ceremony + statue unveil + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696049",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-18-2026-toronto-canada-rogers-centre/mlb/17696049"
+      },
+      "stubHub": {
+        "eventId": "159262473",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-18-2026/event/159262473/"
+      },
+      "vividSeats": {
+        "eventId": "5967030",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-18-2026--sports-mlb-baseball/production/5967030"
+      },
+      "ticketmaster": {
+        "eventId": "1000639183363860",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-white-sox-toronto-ontario-07-18-2026/event/1000639183363860"
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "dayOfWeek": "Sun",
+      "opponent": "Chicago White Sox",
+      "startTime": "13:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696047",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-19-2026-toronto-canada-rogers-centre/mlb/17696047"
+      },
+      "stubHub": {
+        "eventId": "159262474",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-19-2026/event/159262474/"
+      },
+      "vividSeats": {
+        "eventId": "5967049",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-19-2026--sports-mlb-baseball/production/5967049"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186123CD8",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-white-sox-toronto-ontario-07-19-2026/event/1000639186123CD8"
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "dayOfWeek": "Mon",
+      "opponent": "Tampa Bay Rays",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Kazuma Okamoto T-Shirt Giveaway*",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696048",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-20-2026-toronto-canada-rogers-centre/mlb/17696048"
+      },
+      "stubHub": {
+        "eventId": "159262475",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-20-2026/event/159262475/"
+      },
+      "vividSeats": {
+        "eventId": "5967059",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-20-2026--sports-mlb-baseball/production/5967059"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185E73C83",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rays-kazuma-toronto-ontario-07-20-2026/event/1000639185E73C83"
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "dayOfWeek": "Tue",
+      "opponent": "Tampa Bay Rays",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696053",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-21-2026-toronto-canada-rogers-centre/mlb/17696053"
+      },
+      "stubHub": {
+        "eventId": "159262476",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-21-2026/event/159262476/"
+      },
+      "vividSeats": {
+        "eventId": "5967061",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-21-2026--sports-mlb-baseball/production/5967061"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185E93C86",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rays-loonie-toronto-ontario-07-21-2026/event/1000639185E93C86"
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "dayOfWeek": "Wed",
+      "opponent": "Tampa Bay Rays",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Stranger Things Specialty Ticket",
+        "type": "Specialty Ticket",
+        "details": "Includes ticket + Blue Jays Mike Wheeler Bobblehead"
+      },
+      "seatgeek": {
+        "eventId": "17696054",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-22-2026-toronto-canada-rogers-centre/mlb/17696054"
+      },
+      "stubHub": {
+        "eventId": "159262477",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-22-2026/event/159262477/"
+      },
+      "vividSeats": {
+        "eventId": "5967065",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-22-2026--sports-mlb-baseball/production/5967065"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186603DD3",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-tampa-bay-toronto-ontario-07-22-2026/event/1000639186603DD3"
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "dayOfWeek": "Thu",
+      "opponent": "Tampa Bay Rays",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696056",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-23-2026-toronto-canada-rogers-centre/mlb/17696056"
+      },
+      "stubHub": {
+        "eventId": "159262478",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-23-2026/event/159262478/"
+      },
+      "vividSeats": {
+        "eventId": "5967068",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-23-2026--sports-mlb-baseball/production/5967068"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185EC3C8F",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-rays-work-toronto-ontario-07-23-2026/event/1000639185EC3C8F"
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "dayOfWeek": "Fri",
+      "opponent": "St. Louis Cardinals",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696058",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/7-31-2026-toronto-canada-rogers-centre/mlb/17696058"
+      },
+      "stubHub": {
+        "eventId": "159262479",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-7-31-2026/event/159262479/"
+      },
+      "vividSeats": {
+        "eventId": "5967074",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-7-31-2026--sports-mlb-baseball/production/5967074"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186143CDC",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-st-louis-toronto-ontario-07-31-2026/event/1000639186143CDC"
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "dayOfWeek": "Sat",
+      "opponent": "St. Louis Cardinals",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Blue Jays Transformers Day & Transformers Hat Giveaway*",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "Transformers activities + postgame 40th anniversary screening + first 15000 fans"
+      },
+      "seatgeek": {
+        "eventId": "17696061",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-1-2026-toronto-canada-rogers-centre/mlb/17696061"
+      },
+      "stubHub": {
+        "eventId": "159262480",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-1-2026/event/159262480/"
+      },
+      "vividSeats": {
+        "eventId": "5967094",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-1-2026--sports-mlb-baseball/production/5967094"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185BF3C30",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-cardinals-transformers-toronto-ontario-08-01-2026/event/1000639185BF3C30"
+      }
+    },
+    {
+      "date": "2026-08-02",
+      "dayOfWeek": "Sun",
+      "opponent": "St. Louis Cardinals",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696062",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-2-2026-toronto-canada-rogers-centre/mlb/17696062"
+      },
+      "stubHub": {
+        "eventId": "159262481",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-2-2026/event/159262481/"
+      },
+      "vividSeats": {
+        "eventId": "5967100",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-2-2026--sports-mlb-baseball/production/5967100"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186183CE4",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-cardinals-jr-toronto-ontario-08-02-2026/event/1000639186183CE4"
+      }
+    },
+    {
+      "date": "2026-08-10",
+      "dayOfWeek": "Mon",
+      "opponent": "Boston Red Sox",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Back-to-Back Statue Figurine Giveaway* (50th Season)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696065",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-10-2026-toronto-canada-rogers-centre/mlb/17696065"
+      },
+      "stubHub": {
+        "eventId": "159262482",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-10-2026/event/159262482/"
+      },
+      "vividSeats": {
+        "eventId": "5967116",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-10-2026--sports-mlb-baseball/production/5967116"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185EF3C96",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-red-sox-toronto-ontario-08-10-2026/event/1000639185EF3C96"
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "dayOfWeek": "Tue",
+      "opponent": "Boston Red Sox",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696067",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-11-2026-toronto-canada-rogers-centre/mlb/17696067"
+      },
+      "stubHub": {
+        "eventId": "159262483",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-11-2026/event/159262483/"
+      },
+      "vividSeats": {
+        "eventId": "5967120",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-11-2026--sports-mlb-baseball/production/5967120"
+      },
+      "ticketmaster": {
+        "eventId": "10006391861A3CE8",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-red-sox-toronto-ontario-08-11-2026/event/10006391861A3CE8"
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "dayOfWeek": "Wed",
+      "opponent": "Boston Red Sox",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Youth Baseball Specialty Ticket",
+        "type": "Specialty Ticket",
+        "details": "Includes ticket + Blue Jays Youth Elbow Guard"
+      },
+      "seatgeek": {
+        "eventId": "17696068",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-12-2026-toronto-canada-rogers-centre/mlb/17696068"
+      },
+      "stubHub": {
+        "eventId": "159262484",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-12-2026/event/159262484/"
+      },
+      "vividSeats": {
+        "eventId": "5967128",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-12-2026--sports-mlb-baseball/production/5967128"
+      },
+      "ticketmaster": {
+        "eventId": "10006391861D3CED",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-boston-red-toronto-ontario-08-12-2026/event/10006391861D3CED"
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "dayOfWeek": "Thu",
+      "opponent": "Boston Red Sox",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696070",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-13-2026-toronto-canada-rogers-centre/mlb/17696070"
+      },
+      "stubHub": {
+        "eventId": "159262485",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-13-2026/event/159262485/"
+      },
+      "vividSeats": {
+        "eventId": "5967131",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-13-2026--sports-mlb-baseball/production/5967131"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186203CF7",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-red-sox-toronto-ontario-08-13-2026/event/1000639186203CF7"
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "dayOfWeek": "Fri",
+      "opponent": "New York Yankees",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696072",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-14-2026-toronto-canada-rogers-centre/mlb/17696072"
+      },
+      "stubHub": {
+        "eventId": "159262486",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-14-2026/event/159262486/"
+      },
+      "vividSeats": {
+        "eventId": "5967135",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-14-2026--sports-mlb-baseball/production/5967135"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185C03C37",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-new-york-toronto-ontario-08-14-2026/event/1000639185C03C37"
+      }
+    },
+    {
+      "date": "2026-08-15",
+      "dayOfWeek": "Sat",
+      "opponent": "New York Yankees",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Care Bears Specialty Ticket",
+        "type": "Specialty Ticket",
+        "details": "Includes ticket + Blue Jays Plush Care Bear"
+      },
+      "seatgeek": {
+        "eventId": "17696075",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-15-2026-toronto-canada-rogers-centre/mlb/17696075"
+      },
+      "stubHub": {
+        "eventId": "159262487",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-15-2026/event/159262487/"
+      },
+      "vividSeats": {
+        "eventId": "5967140",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-15-2026--sports-mlb-baseball/production/5967140"
+      },
+      "ticketmaster": {
+        "eventId": "1000639183403869",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-new-york-toronto-ontario-08-15-2026/event/1000639183403869"
+      }
+    },
+    {
+      "date": "2026-08-16",
+      "dayOfWeek": "Sun",
+      "opponent": "New York Yankees",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696077",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-16-2026-toronto-canada-rogers-centre/mlb/17696077"
+      },
+      "stubHub": {
+        "eventId": "159262488",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-16-2026/event/159262488/"
+      },
+      "vividSeats": {
+        "eventId": "5967159",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-16-2026--sports-mlb-baseball/production/5967159"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185C03C3F",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-new-york-toronto-ontario-08-16-2026/event/1000639185C03C3F"
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "dayOfWeek": "Tue",
+      "opponent": "Kansas City Royals",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696079",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-25-2026-toronto-canada-rogers-centre/mlb/17696079"
+      },
+      "stubHub": {
+        "eventId": "159262489",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-25-2026/event/159262489/"
+      },
+      "vividSeats": {
+        "eventId": "5967163",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-25-2026--sports-mlb-baseball/production/5967163"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186373D44",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-royals-loonie-toronto-ontario-08-25-2026/event/1000639186373D44"
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "dayOfWeek": "Wed",
+      "opponent": "Kansas City Royals",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696080",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-26-2026-toronto-canada-rogers-centre/mlb/17696080"
+      },
+      "stubHub": {
+        "eventId": "159262490",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-26-2026/event/159262490/"
+      },
+      "vividSeats": {
+        "eventId": "5967166",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-26-2026--sports-mlb-baseball/production/5967166"
+      },
+      "ticketmaster": {
+        "eventId": "10006391863A3D51",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-kansas-city-toronto-ontario-08-26-2026/event/10006391863A3D51"
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "dayOfWeek": "Thu",
+      "opponent": "Kansas City Royals",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696083",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-27-2026-toronto-canada-rogers-centre/mlb/17696083"
+      },
+      "stubHub": {
+        "eventId": "159262491",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-27-2026/event/159262491/"
+      },
+      "vividSeats": {
+        "eventId": "5967171",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-27-2026--sports-mlb-baseball/production/5967171"
+      },
+      "ticketmaster": {
+        "eventId": "10006391863C3D5A",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-kansas-city-toronto-ontario-08-27-2026/event/10006391863C3D5A"
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "dayOfWeek": "Fri",
+      "opponent": "Seattle Mariners",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696084",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-28-2026-toronto-canada-rogers-centre/mlb/17696084"
+      },
+      "stubHub": {
+        "eventId": "159262492",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-28-2026/event/159262492/"
+      },
+      "vividSeats": {
+        "eventId": "5967183",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-28-2026--sports-mlb-baseball/production/5967183"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186223CFA",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-seattle-mariners-toronto-ontario-08-28-2026/event/1000639186223CFA"
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "dayOfWeek": "Sat",
+      "opponent": "Seattle Mariners",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696085",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-29-2026-toronto-canada-rogers-centre/mlb/17696085"
+      },
+      "stubHub": {
+        "eventId": "159262493",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-29-2026/event/159262493/"
+      },
+      "vividSeats": {
+        "eventId": "5967191",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-29-2026--sports-mlb-baseball/production/5967191"
+      },
+      "ticketmaster": {
+        "eventId": "10006391834F3879",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-seattle-mariners-toronto-ontario-08-29-2026/event/10006391834F3879"
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "dayOfWeek": "Sun",
+      "opponent": "Seattle Mariners",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696088",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/8-30-2026-toronto-canada-rogers-centre/mlb/17696088"
+      },
+      "stubHub": {
+        "eventId": "159262494",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-8-30-2026/event/159262494/"
+      },
+      "vividSeats": {
+        "eventId": "5967197",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-8-30-2026--sports-mlb-baseball/production/5967197"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186253D05",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-mariners-jr-toronto-ontario-08-30-2026/event/1000639186253D05"
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "dayOfWeek": "Fri",
+      "opponent": "Baltimore Orioles",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Classic Retro Bag Giveaway* (50th Season)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696091",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-11-2026-toronto-canada-rogers-centre/mlb/17696091"
+      },
+      "stubHub": {
+        "eventId": "159262495",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-11-2026/event/159262495/"
+      },
+      "vividSeats": {
+        "eventId": "5967220",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-11-2026--sports-mlb-baseball/production/5967220"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186633DDE",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-orioles-classic-toronto-ontario-09-11-2026/event/1000639186633DDE"
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "dayOfWeek": "Sat",
+      "opponent": "Baltimore Orioles",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Blue Jays Hello Kitty Day & Hello Kitty Bobblehead Giveaway*",
+        "type": "Theme Day + Giveaway (first 15k)",
+        "details": "Hello Kitty activities + first 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696093",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-12-2026-toronto-canada-rogers-centre/mlb/17696093"
+      },
+      "stubHub": {
+        "eventId": "159262496",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-12-2026/event/159262496/"
+      },
+      "vividSeats": {
+        "eventId": "5967226",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-12-2026--sports-mlb-baseball/production/5967226"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186273D15",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-orioles-hello-toronto-ontario-09-12-2026/event/1000639186273D15"
+      }
+    },
+    {
+      "date": "2026-09-13",
+      "dayOfWeek": "Sun",
+      "opponent": "Baltimore Orioles",
+      "startTime": "13:37",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696095",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-13-2026-toronto-canada-rogers-centre/mlb/17696095"
+      },
+      "stubHub": {
+        "eventId": "159262497",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-13-2026/event/159262497/"
+      },
+      "vividSeats": {
+        "eventId": "5967231",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-13-2026--sports-mlb-baseball/production/5967231"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185F23CA3",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-orioles-jr-toronto-ontario-09-13-2026/event/1000639185F23CA3"
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "dayOfWeek": "Mon",
+      "opponent": "Detroit Tigers",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "University and College Specialty Ticket",
+        "type": "Specialty Ticket (Groups)",
+        "details": "Includes ticket + Blue Jays Co-Branded Hat"
+      },
+      "seatgeek": {
+        "eventId": "17696097",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-14-2026-toronto-canada-rogers-centre/mlb/17696097"
+      },
+      "stubHub": {
+        "eventId": "159262498",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-14-2026/event/159262498/"
+      },
+      "vividSeats": {
+        "eventId": "5967238",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-14-2026--sports-mlb-baseball/production/5967238"
+      },
+      "ticketmaster": {
+        "eventId": "10006391863F3D67",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-detroit-tigers-toronto-ontario-09-14-2026/event/10006391863F3D67"
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "dayOfWeek": "Tue",
+      "opponent": "Detroit Tigers",
+      "startTime": "19:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696098",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-15-2026-toronto-canada-rogers-centre/mlb/17696098"
+      },
+      "stubHub": {
+        "eventId": "159262499",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-15-2026/event/159262499/"
+      },
+      "vividSeats": {
+        "eventId": "5967243",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-15-2026--sports-mlb-baseball/production/5967243"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186663DE4",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-tigers-loonie-toronto-ontario-09-15-2026/event/1000639186663DE4"
+      }
+    },
+    {
+      "date": "2026-09-16",
+      "dayOfWeek": "Wed",
+      "opponent": "Detroit Tigers",
+      "startTime": "15:07",
+      "promotion": null,
+      "seatgeek": {
+        "eventId": "17696099",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-16-2026-toronto-canada-rogers-centre/mlb/17696099"
+      },
+      "stubHub": {
+        "eventId": "159262500",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-16-2026/event/159262500/"
+      },
+      "vividSeats": {
+        "eventId": "5967247",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-16-2026--sports-mlb-baseball/production/5967247"
+      },
+      "ticketmaster": {
+        "eventId": "1000639186693DF6",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-tigers-work-toronto-ontario-09-16-2026/event/1000639186693DF6"
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "dayOfWeek": "Fri",
+      "opponent": "Cincinnati Reds",
+      "startTime": "19:07",
+      "promotion": {
+        "name": "Carlos Delgado Retro Windbreaker Giveaway* (50th Season - presented by TD)",
+        "type": "Giveaway (first 15k)",
+        "details": "First 15000 fans on entrance"
+      },
+      "seatgeek": {
+        "eventId": "17696103",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-25-2026-toronto-canada-rogers-centre/mlb/17696103"
+      },
+      "stubHub": {
+        "eventId": "159262501",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-25-2026/event/159262501/"
+      },
+      "vividSeats": {
+        "eventId": "5967256",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-25-2026--sports-mlb-baseball/production/5967256"
+      },
+      "ticketmaster": {
+        "eventId": "1000639185F53CA6",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-reds-delgado-toronto-ontario-09-25-2026/event/1000639185F53CA6"
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "dayOfWeek": "Sat",
+      "opponent": "Cincinnati Reds",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Fan Appreciation Weekend (presented by TD)",
+        "type": "Theme Weekend",
+        "details": "Fan Appreciation Weekend activities"
+      },
+      "seatgeek": {
+        "eventId": "17696105",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-26-2026-toronto-canada-rogers-centre/mlb/17696105"
+      },
+      "stubHub": {
+        "eventId": "159262502",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-26-2026/event/159262502/"
+      },
+      "vividSeats": {
+        "eventId": "5967262",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-26-2026--sports-mlb-baseball/production/5967262"
+      },
+      "ticketmaster": {
+        "eventId": "10006391862A3D20",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-reds-fan-toronto-ontario-09-26-2026/event/10006391862A3D20"
+      }
+    },
+    {
+      "date": "2026-09-27",
+      "dayOfWeek": "Sun",
+      "opponent": "Cincinnati Reds",
+      "startTime": "15:07",
+      "promotion": {
+        "name": "Fan Appreciation Weekend (presented by TD)",
+        "type": "Theme Weekend",
+        "details": "Fan Appreciation Weekend activities"
+      },
+      "seatgeek": {
+        "eventId": "17696106",
+        "url": "https://seatgeek.com/toronto-blue-jays-tickets/9-27-2026-toronto-canada-rogers-centre/mlb/17696106"
+      },
+      "stubHub": {
+        "eventId": "159262503",
+        "url": "https://www.stubhub.ca/toronto-blue-jays-toronto-tickets-9-27-2026/event/159262503/"
+      },
+      "vividSeats": {
+        "eventId": "5967268",
+        "url": "https://www.vividseats.com/toronto-blue-jays-tickets-rogers-centre-9-27-2026--sports-mlb-baseball/production/5967268"
+      },
+      "ticketmaster": {
+        "eventId": "10006391862C3D25",
+        "url": "https://www.ticketmaster.ca/toronto-blue-jays-vs-reds-fan-toronto-ontario-09-27-2026/event/10006391862C3D25"
+      }
+    }
+  ]
+}

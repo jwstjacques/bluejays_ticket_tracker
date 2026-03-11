@@ -1,0 +1,46 @@
+{
+  "platforms": {
+    "seatgeek": {
+      "name": "SeatGeek",
+      "sellerFeePercent": 10,
+      "feeNotes": "Flat 10% fee on sale price. Free to list.",
+      "baseUrl": "https://api.seatgeek.com/2/",
+      "authType": "client_id",
+      "developerUrl": "https://seatgeek.com/account/develop",
+      "deepLinkParams": {
+        "section": "selected=s%3A{section}",
+        "quantity": "quantity={qty}"
+      }
+    },
+    "stubHub": {
+      "name": "StubHub",
+      "sellerFeePercent": 15,
+      "feeNotes": "Variable fee, estimated at 15%. No set percentage — adjusts based on price, timing, supply/demand. Free to list.",
+      "baseUrl": "https://api.stubhub.net/",
+      "authType": "oauth2",
+      "developerUrl": "https://developer.stubhub.com/",
+      "deepLinkParams": {
+        "section": "sections={sectionId}",
+        "quantity": "quantity={qty}"
+      }
+    },
+    "ticketmaster": {
+      "name": "Ticketmaster",
+      "sellerFeePercent": 15,
+      "feeNotes": "Estimated at 15%.",
+      "baseUrl": "https://app.ticketmaster.com/discovery/v2/",
+      "authType": "apikey",
+      "developerUrl": "https://developer.ticketmaster.com/",
+      "deepLinkParams": {}
+    },
+    "vividSeats": {
+      "name": "Vivid Seats",
+      "sellerFeePercent": 10,
+      "feeNotes": "Flat 10% fee on sale price.",
+      "baseUrl": null,
+      "authType": null,
+      "developerUrl": "https://vividseats.stoplight.io/docs/partnerships-service-partner-api/",
+      "deepLinkParams": {}
+    }
+  }
+}
