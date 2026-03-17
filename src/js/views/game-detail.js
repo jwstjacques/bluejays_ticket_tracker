@@ -4,7 +4,7 @@
  */
 
 import { getGameByDate, getAllSections, getPlatforms } from '../data.js';
-import { getTicketForGame, getTicketSets, addTicketSet } from '../storage.js';
+import { getTicketForGame, getTicketSets, addTicketSet, getMarketPrices } from '../storage.js';
 import { el, formatDateLong, formatTimeFull, formatCurrency } from '../utils.js';
 import { buildPricingSection } from './game-detail-pricing.js';
 import { buildTicketForm, renderProfitLoss } from './game-detail-form.js';
@@ -67,7 +67,7 @@ export function renderGameDetail(container, date, from) {
     onSave: (formData) => {
       const calcContainer = document.getElementById('profit-loss-calculator');
       if (calcContainer && formData.marketPrice) {
-        renderProfitLoss(calcContainer, formData, platforms);
+        renderProfitLoss(calcContainer, formData, platforms, date);
       } else if (calcContainer) {
         calcContainer.innerHTML = '';
       }
@@ -92,12 +92,36 @@ export function renderGameDetail(container, date, from) {
   });
   wrapper.appendChild(addSetBtn);
 
-  // 6. Profit/Loss calculator
+  // 6. Profit/Loss calculator — derive market price from pricing section data
   const calcContainer = el('div', { id: 'profit-loss-calculator' });
   wrapper.appendChild(calcContainer);
-  if (existingTicket && existingTicket.marketPrice) {
-    renderProfitLoss(calcContainer, existingTicket, platforms);
+  if (existingTicket) {
+    const mktPrices = getMarketPrices();
+    const gamePrices = mktPrices[date] || null;
+    const ticketSec = existingTicket.section || '231';
+    const lo = gamePrices?.sections?.[ticketSec];
+    const hi = gamePrices?.sectionsHigh?.[ticketSec];
+    const liveAvg = (lo != null && hi != null) ? +((lo + hi) / 2).toFixed(2)
+      : (lo != null ? lo : hi != null ? hi : null);
+    if (liveAvg != null) existingTicket.marketPrice = liveAvg;
+    if (existingTicket.marketPrice) {
+      renderProfitLoss(calcContainer, existingTicket, platforms, date);
+    }
   }
+
+  // Listen for price updates from the pricing section and re-render P/L
+  const onPriceUpdate = (e) => {
+    if (e.detail.date !== date) return;
+    const newPrice = e.detail.marketPrice;
+    if (existingTicket && newPrice != null) {
+      existingTicket.marketPrice = newPrice;
+      // Also update the market price input in the form if present
+      const mktInput = document.querySelector('[name="marketPrice"]');
+      if (mktInput) mktInput.value = String(newPrice);
+      renderProfitLoss(calcContainer, existingTicket, platforms, date);
+    }
+  };
+  document.addEventListener('market-price-updated', onPriceUpdate);
 }
 
 // ---------------------------------------------------------------------------

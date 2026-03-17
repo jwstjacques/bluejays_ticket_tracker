@@ -141,7 +141,7 @@ export function buildPricingSection(game, date, ticket) {
   }
   wrapper.appendChild(infoEl);
 
-  const feedback = el('div', { className: 'seatgeek-prices-section__feedback', 'aria-live': 'polite' });
+  const feedback = el('span', { className: 'seatgeek-prices-section__feedback', 'aria-live': 'polite', style: 'font-size:13px;font-weight:600;' });
   const saveBtn = el('button', { type: 'button', className: 'btn btn-primary btn-sm' }, 'Save Prices');
 
   let inputsLow = {};
@@ -173,7 +173,7 @@ export function buildPricingSection(game, date, ticket) {
 
     function buildPriceInput(sec, val, isPrimary) {
       return el('input', {
-        type: 'number', min: '0', step: '0.01', placeholder: '\u2014',
+        type: 'number', min: '0', step: '1', placeholder: '\u2014',
         value: val != null ? String(val) : '',
         style: `width:72px;text-align:right;padding:4px 6px;font-size:13px;border:1px solid var(--color-mid-gray);border-radius:var(--radius-sm);${isPrimary ? 'font-weight:700;' : ''}`,
       });
@@ -187,13 +187,26 @@ export function buildPricingSection(game, date, ticket) {
     function cellStyle(sec) {
       const idx = sections.indexOf(sec);
       const bg = idx === 0 ? 'rgba(19,74,142,0.07)' : idx % 2 === 1 ? 'rgba(0,0,0,0.02)' : '';
-      return `padding:6px 4px;white-space:nowrap;${bg ? `background:${bg};` : ''}`;
+      return `padding:6px 6px;white-space:nowrap;${bg ? `background:${bg};` : ''}`;
     }
 
-    const table = el('table', { className: 'schedule-table seatgeek-price-table', style: 'margin-bottom:8px;' });
+    function buildChangeBadge(val, prev) {
+      if (val == null || prev == null || val === prev) {
+        return el('span', { style: 'display:inline-block;width:36px;margin-right:6px;' });
+      }
+      const diff = val - prev;
+      const color = diff > 0 ? 'var(--status-keep)' : 'var(--color-red)';
+      const bg = diff > 0 ? 'rgba(26,138,63,0.1)' : 'rgba(232,41,28,0.1)';
+      return el('span', {
+        style: `display:inline-block;width:36px;margin-right:6px;font-size:10px;font-weight:600;color:${color};background:${bg};padding:1px 4px;border-radius:8px;text-align:center;vertical-align:middle;white-space:nowrap;`,
+        title: `Was ${formatCurrency(prev)}`
+      }, `${diff > 0 ? '\u25B2' : '\u25BC'}${Math.round(Math.abs(diff))}`);
+    }
+
+    const table = el('table', { className: 'schedule-table seatgeek-price-table', style: 'margin-bottom:8px;width:100%;' });
     const sgBaseUrl = game.seatgeek?.url || null;
     table.appendChild(el('thead', {}, el('tr', {},
-      el('th', {}, ''),
+      el('th', { style: 'white-space:nowrap;' }, ''),
       ...sections.map((sec) => {
         const isPrimary = sec === primarySec;
         const bg = isPrimary ? 'background:rgba(19,74,142,0.85);font-weight:800;' : 'background:rgba(19,74,142,0.65);';
@@ -231,15 +244,9 @@ export function buildPricingSection(game, date, ticket) {
       const input = buildPriceInput(sec, val, sec === primarySec);
       inputsLow[sec] = input;
       const td = el('td', { style: cellStyle(sec) });
+      td.appendChild(buildChangeBadge(val, prev));
       td.appendChild(input);
       td.appendChild(buildClearBtn(input));
-      if (val != null && prev != null && val !== prev) {
-        const diff = val - prev;
-        td.appendChild(el('span', {
-          style: `display:block;font-size:10px;color:${diff > 0 ? 'var(--color-red)' : 'var(--status-keep)'};text-align:right;margin-top:2px;`,
-          title: `Was ${formatCurrency(prev)}`
-        }, `${diff > 0 ? '\u25B2' : '\u25BC'} ${formatCurrency(Math.abs(diff))}`));
-      }
       lowRow.appendChild(td);
     }
     tbody.appendChild(lowRow);
@@ -258,15 +265,9 @@ export function buildPricingSection(game, date, ticket) {
       const input = buildPriceInput(sec, val, sec === primarySec);
       inputsHigh[sec] = input;
       const td = el('td', { style: cellStyle(sec) });
+      td.appendChild(buildChangeBadge(val, prev));
       td.appendChild(input);
       td.appendChild(buildClearBtn(input));
-      if (val != null && prev != null && val !== prev) {
-        const diff = val - prev;
-        td.appendChild(el('span', {
-          style: `display:block;font-size:10px;color:${diff > 0 ? 'var(--color-red)' : 'var(--status-keep)'};text-align:right;margin-top:2px;`,
-          title: `Was ${formatCurrency(prev)}`
-        }, `${diff > 0 ? '\u25B2' : '\u25BC'} ${formatCurrency(Math.abs(diff))}`));
-      }
       highRow.appendChild(td);
     }
     tbody.appendChild(highRow);
@@ -328,12 +329,18 @@ export function buildPricingSection(game, date, ticket) {
       comparisonSections: [...comparisons],
     });
     infoEl.textContent = `Last updated: ${new Date().toLocaleDateString()}`;
-    feedback.innerHTML = '';
-    feedback.appendChild(
-      el('p', { style: 'padding:8px 12px;border-radius:var(--radius);font-size:13px;color:var(--status-keep);background:rgba(26,138,63,0.08);' }, 'Prices saved.')
-    );
+
+    // Notify P/L calculator of updated avg price for primary section
+    const lo = sections[primarySec];
+    const hi = sectionsHigh[primarySec];
+    const newAvg = (lo != null && hi != null) ? +((lo + hi) / 2).toFixed(2)
+      : (lo != null ? lo : hi != null ? hi : null);
+    document.dispatchEvent(new CustomEvent('market-price-updated', { detail: { date, marketPrice: newAvg } }));
+
+    feedback.textContent = '\u2713 Prices saved';
+    feedback.style.color = 'var(--status-keep)';
     clearTimeout(feedback._timer);
-    feedback._timer = setTimeout(() => { feedback.innerHTML = ''; }, 2500);
+    feedback._timer = setTimeout(() => { feedback.textContent = ''; }, 2500);
   });
 
   // Toolbar: save button + feedback (left), marketplace links (right)
@@ -352,7 +359,7 @@ export function buildPricingSection(game, date, ticket) {
   ];
   const hasLinks = marketplaceLinks.some(mp => game[mp.key]?.url);
   if (hasLinks) {
-    const toolbarRight = el('div', { style: 'display:flex;align-items:center;font-size:13px;color:var(--color-text-secondary);' });
+    const toolbarRight = el('div', { style: 'display:flex;align-items:center;gap:6px;' });
     const linkEls = [];
     for (const mp of marketplaceLinks) {
       let url = game[mp.key]?.url;
@@ -367,16 +374,15 @@ export function buildPricingSection(game, date, ticket) {
         }
         const link = el('a', {
           href: url, target: '_blank', rel: 'noopener noreferrer',
-          style: 'font-size:13px;color:var(--color-text-secondary);text-decoration:none;',
-          onmouseenter: function () { this.style.textDecoration = 'underline'; },
-          onmouseleave: function () { this.style.textDecoration = 'none'; },
-        }, mp.label);
+          style: 'display:inline-flex;align-items:center;gap:3px;font-size:12px;font-weight:600;color:var(--color-navy);text-decoration:none;padding:4px 10px;border:1px solid var(--color-navy);border-radius:var(--radius-sm);transition:background 150ms ease, color 150ms ease;',
+          onmouseenter: function () { this.style.background = 'var(--color-navy)'; this.style.color = '#fff'; },
+          onmouseleave: function () { this.style.background = ''; this.style.color = 'var(--color-navy)'; },
+        }, `${mp.label} \u2197`);
         linkEls.push(link);
       }
     }
-    for (let i = 0; i < linkEls.length; i++) {
-      if (i > 0) toolbarRight.appendChild(document.createTextNode(' \u00B7 '));
-      toolbarRight.appendChild(linkEls[i]);
+    for (const linkEl of linkEls) {
+      toolbarRight.appendChild(linkEl);
     }
     toolbar.appendChild(toolbarRight);
   }

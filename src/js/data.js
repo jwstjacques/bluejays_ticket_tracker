@@ -12,6 +12,7 @@ let seasonData = null;       // full parsed 2026_season.json
 let sectionData = null;      // full parsed rogers_centre_sections.json
 let platformData = null;     // full parsed platforms.json
 let packagesData = null;     // full parsed ticket_packages.json
+let tmTradeData = null;      // full parsed tm_trading_values.json
 
 // Pre-built lookup tables populated after load
 let _sectionIndex = null; // Map<sectionId, {level, zone, position, notes}>
@@ -56,6 +57,40 @@ export async function loadPlatformData() {
   if (!res.ok) throw new Error(`Failed to load platform data: ${res.status}`);
   platformData = await res.json();
   return platformData;
+}
+
+/**
+ * Fetch and cache the TM trading values.
+ * @returns {Promise<Object|null>}
+ */
+export async function loadTmTradeValues() {
+  try {
+    const res = await fetch('config/personal/tm_trading_values.json');
+    if (!res.ok) return null;
+    tmTradeData = await res.json();
+    return tmTradeData;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Get the TM trade value for a game date, optionally for a specific section.
+ * @param {string} date - e.g. "2026-03-27"
+ * @param {string} [section] - e.g. "232" (for games with per-section values)
+ * @returns {number|null}
+ */
+export function getTmTradeValue(date, section) {
+  const val = tmTradeData?.values?.[date];
+  if (val == null) return null;
+  if (typeof val === 'number') return val;
+  if (typeof val === 'object' && section && val[section] != null) return val[section];
+  // If object but no matching section, return first available value
+  if (typeof val === 'object') {
+    const first = Object.values(val)[0];
+    return typeof first === 'number' ? first : null;
+  }
+  return null;
 }
 
 /**

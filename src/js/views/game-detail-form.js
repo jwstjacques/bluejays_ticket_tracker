@@ -3,7 +3,7 @@
  * Handles the collapsible ticket info form, sale listings, and per-game profit/loss.
  */
 
-import { getGameByDate, getGames, getAllSections, getPlatforms, getSellerFee } from '../data.js';
+import { getGameByDate, getGames, getAllSections, getPlatforms, getSellerFee, getTmTradeValue } from '../data.js';
 import { getTicketForGame, saveTicket, deleteTicket, addTicketSet, getMyTickets, getMarketPrices } from '../storage.js';
 import { el, formatCurrency, formatDateLong } from '../utils.js';
 
@@ -254,6 +254,22 @@ export function buildTicketForm(date, sections, existingTicket, setIndex, setCou
   };
   qtyInput.addEventListener('input', recalculate);
   costInput.addEventListener('input', recalculate);
+
+  // TM Trade Value (read-only)
+  const tmValue = getTmTradeValue(date, existingTicket?.section);
+  if (tmValue != null) {
+    const costPer = existingTicket?.costPerTicket;
+    const diff = costPer != null ? tmValue - costPer : null;
+    const diffColor = diff != null ? (diff >= 0 ? 'var(--status-keep)' : 'var(--color-red)') : '';
+    const diffText = diff != null ? ` (${diff >= 0 ? '+' : ''}${formatCurrency(diff)})` : '';
+
+    const tmDisplay = el('span', { className: 'ticket-form__static-text' });
+    tmDisplay.appendChild(document.createTextNode(formatCurrency(tmValue)));
+    if (diffText) {
+      tmDisplay.appendChild(el('span', { style: `color:${diffColor};font-size:12px;margin-left:4px;` }, diffText));
+    }
+    form.appendChild(buildFieldGroup('TM Trade Value', `field-tm-value${fid}`, tmDisplay));
+  }
 
   // Status
   const statusSelect = el('select', { name: 'status', id: `field-status${fid}`, className: 'ticket-form__select' });
@@ -522,12 +538,13 @@ function buildResultRow(label, value, valueClass) {
  * @param {Object} ticket
  * @param {Object} platforms
  */
-export function renderProfitLoss(container, ticket, platforms) {
+export function renderProfitLoss(container, ticket, platforms, date) {
   container.innerHTML = '';
   if (ticket.costPerTicket == null || ticket.marketPrice == null) return;
 
+  // Read live from ticket object so updates (e.g. from Save Prices) are reflected
   const costPerTicket = ticket.costPerTicket;
-  const marketPrice = ticket.marketPrice;
+  const tmValue = date ? getTmTradeValue(date, ticket.section) : null;
 
   // Use SELL set quantity if split, otherwise total
   let quantity = ticket.quantity || 1;
@@ -567,16 +584,17 @@ export function renderProfitLoss(container, ticket, platforms) {
 
   const render = () => {
     body.innerHTML = '';
+    const mp = ticket.marketPrice;
     const selectedKey = platformSelect.value;
     const feePercent = getSellerFee(selectedKey);
-    const netPerTicket = marketPrice * (1 - feePercent / 100);
+    const netPerTicket = mp * (1 - feePercent / 100);
     const profitPerTicket = netPerTicket - costPerTicket;
     const totalProfit = profitPerTicket * quantity;
     const plColor = totalProfit >= 0 ? 'color:var(--status-keep);' : 'color:var(--color-red);';
 
     const rows = [
       { label: 'Cost per ticket', value: formatCurrency(costPerTicket), alt: false },
-      { label: 'AVG SeatGeek $', value: formatCurrency(marketPrice), alt: true },
+      { label: 'AVG SeatGeek $', value: formatCurrency(mp), alt: true },
       { label: `Seller fee (${platforms[selectedKey]?.name || selectedKey})`, value: `${feePercent}%`, alt: false },
       { label: 'Net per ticket', value: formatCurrency(netPerTicket), alt: true },
       { label: 'P/L per ticket', value: `${profitPerTicket >= 0 ? '+' : ''}${formatCurrency(profitPerTicket)}`, alt: false, color: plColor },
@@ -594,6 +612,7 @@ export function renderProfitLoss(container, ticket, platforms) {
     totalRow.appendChild(el('span', { style: 'font-weight:700;' }, `Total P/L (${quantity} ticket${quantity !== 1 ? 's' : ''})`));
     totalRow.appendChild(el('span', { style: `font-weight:700;font-size:18px;font-variant-numeric:tabular-nums;${plColor}` }, `${totalProfit >= 0 ? '+' : ''}${formatCurrency(totalProfit)}`));
     body.appendChild(totalRow);
+
   };
 
   platformSelect.addEventListener('change', render);

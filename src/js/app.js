@@ -3,7 +3,7 @@
  * Loads config data, initializes the hash-based router, and manages nav state.
  */
 
-import { loadSeasonData, loadSectionData, loadPlatformData, loadPackagesData } from './data.js';
+import { loadSeasonData, loadSectionData, loadPlatformData, loadPackagesData, loadTmTradeValues } from './data.js';
 import { initStorage } from './storage.js';
 import { renderSchedule } from './views/schedule.js';
 import { renderGameDetail } from './views/game-detail.js';
@@ -44,6 +44,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       loadSectionData(),
       loadPlatformData(),
       loadPackagesData(),
+      loadTmTradeValues(),
       initStorage(),
     ]);
   } catch (err) {
